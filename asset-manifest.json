@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/kvpapp/static/css/main.fe5cd51e.css",
-    "main.js": "/kvpapp/static/js/main.8e0a2c97.js",
+    "main.js": "/kvpapp/static/js/main.808c1b8d.js",
     "static/css/872.9782ea7b.chunk.css": "/kvpapp/static/css/872.9782ea7b.chunk.css",
     "static/js/872.0526bbc4.chunk.js": "/kvpapp/static/js/872.0526bbc4.chunk.js",
     "static/js/787.9c4083a9.chunk.js": "/kvpapp/static/js/787.9c4083a9.chunk.js",
@@ -9,13 +9,13 @@
     "static/media/preloader.svg": "/kvpapp/static/media/preloader.5788b05c9c3040dbc893f9a2d7327e3c.svg",
     "index.html": "/kvpapp/index.html",
     "main.fe5cd51e.css.map": "/kvpapp/static/css/main.fe5cd51e.css.map",
-    "main.8e0a2c97.js.map": "/kvpapp/static/js/main.8e0a2c97.js.map",
+    "main.808c1b8d.js.map": "/kvpapp/static/js/main.808c1b8d.js.map",
     "872.9782ea7b.chunk.css.map": "/kvpapp/static/css/872.9782ea7b.chunk.css.map",
     "872.0526bbc4.chunk.js.map": "/kvpapp/static/js/872.0526bbc4.chunk.js.map",
     "787.9c4083a9.chunk.js.map": "/kvpapp/static/js/787.9c4083a9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fe5cd51e.css",
-    "static/js/main.8e0a2c97.js"
+    "static/js/main.808c1b8d.js"
   ]
 }
