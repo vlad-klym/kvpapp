@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/vlad-klym/kvpapp.git/static/css/main.fe5cd51e.css",
-    "main.js": "/vlad-klym/kvpapp.git/static/js/main.8153b633.js",
-    "static/css/872.9782ea7b.chunk.css": "/vlad-klym/kvpapp.git/static/css/872.9782ea7b.chunk.css",
-    "static/js/872.0526bbc4.chunk.js": "/vlad-klym/kvpapp.git/static/js/872.0526bbc4.chunk.js",
-    "static/js/787.9c4083a9.chunk.js": "/vlad-klym/kvpapp.git/static/js/787.9c4083a9.chunk.js",
-    "static/media/user.png": "/vlad-klym/kvpapp.git/static/media/user.96e310a6add3a711174d.png",
-    "static/media/preloader.svg": "/vlad-klym/kvpapp.git/static/media/preloader.5788b05c9c3040dbc893f9a2d7327e3c.svg",
-    "index.html": "/vlad-klym/kvpapp.git/index.html",
-    "main.fe5cd51e.css.map": "/vlad-klym/kvpapp.git/static/css/main.fe5cd51e.css.map",
-    "main.8153b633.js.map": "/vlad-klym/kvpapp.git/static/js/main.8153b633.js.map",
-    "872.9782ea7b.chunk.css.map": "/vlad-klym/kvpapp.git/static/css/872.9782ea7b.chunk.css.map",
-    "872.0526bbc4.chunk.js.map": "/vlad-klym/kvpapp.git/static/js/872.0526bbc4.chunk.js.map",
-    "787.9c4083a9.chunk.js.map": "/vlad-klym/kvpapp.git/static/js/787.9c4083a9.chunk.js.map"
+    "main.css": "/vlad-klym/kvpapp/static/css/main.fe5cd51e.css",
+    "main.js": "/vlad-klym/kvpapp/static/js/main.45a1eceb.js",
+    "static/css/872.9782ea7b.chunk.css": "/vlad-klym/kvpapp/static/css/872.9782ea7b.chunk.css",
+    "static/js/872.0526bbc4.chunk.js": "/vlad-klym/kvpapp/static/js/872.0526bbc4.chunk.js",
+    "static/js/787.9c4083a9.chunk.js": "/vlad-klym/kvpapp/static/js/787.9c4083a9.chunk.js",
+    "static/media/user.png": "/vlad-klym/kvpapp/static/media/user.96e310a6add3a711174d.png",
+    "static/media/preloader.svg": "/vlad-klym/kvpapp/static/media/preloader.5788b05c9c3040dbc893f9a2d7327e3c.svg",
+    "index.html": "/vlad-klym/kvpapp/index.html",
+    "main.fe5cd51e.css.map": "/vlad-klym/kvpapp/static/css/main.fe5cd51e.css.map",
+    "main.45a1eceb.js.map": "/vlad-klym/kvpapp/static/js/main.45a1eceb.js.map",
+    "872.9782ea7b.chunk.css.map": "/vlad-klym/kvpapp/static/css/872.9782ea7b.chunk.css.map",
+    "872.0526bbc4.chunk.js.map": "/vlad-klym/kvpapp/static/js/872.0526bbc4.chunk.js.map",
+    "787.9c4083a9.chunk.js.map": "/vlad-klym/kvpapp/static/js/787.9c4083a9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fe5cd51e.css",
-    "static/js/main.8153b633.js"
+    "static/js/main.45a1eceb.js"
   ]
 }
